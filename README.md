@@ -9,7 +9,7 @@ If you found the codes are useful, please cite our paper.
 
     @inproceedings{xu2023mhscnet,
       title={MHSCNET: A Multimodal Hierarchical Shot-Aware Convolutional Network for Video Summarization},
-      author={Xu, Wujiang and Wang, Runzhong and Guo, Xiaobo and Li, Shaoshuai and Ma, Qiongxu and Zhao, Yunan and Guo, Sheng and Zhu, Zhenfeng and Yan, Junchi},
+      author={Wujiang Xu, Runzhong Wang, Xiaobo Guo, Shaoshuai Li, Qiongxu Ma, Yunan Zhao, Sheng Guo, Zhenfeng Zhu, Junchi Yan},
       booktitle={ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
       pages={1--5},
       year={2023},
