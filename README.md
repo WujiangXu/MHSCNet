@@ -30,4 +30,4 @@ If you have found the datasets and codes to be useful, we kindly request that yo
 
 
 ## Contact us 
-Please feel free to contact us with the email to W. Xu "xuwujiang dot xwj at mybank dot cn" or "swustimp at gmail dot com".
+Please feel free to contact us with the email to W. Xu "wujiang dot xu at rutgers dot edu" or "swustimp at gmail dot com".
